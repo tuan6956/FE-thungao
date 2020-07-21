@@ -1,0 +1,63 @@
+.main-container {
+    height: 100%;
+    color: #fff ;
+    /* display: flex;
+    align-items: center; */
+}
+
+#form_login {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+
+.login-form {
+    padding: 30px;
+    padding-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.15)
+        /* box-shadow: 0 5px 2px 0;     */
+}
+
+.login-form .title {
+    text-align: center;
+    color: #fff;
+}
+
+.main-container form {
+    padding: 10%;
+}
+
+.btn-register .btn {
+    width: 90%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+
+.login-form .btnSubmit {
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+
+.login-form .ForgetPwd {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+.btn-register {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.btn.btnCancel {
+    border: 1px solid #fff;
+    color: #fff;
+}

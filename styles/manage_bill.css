@@ -1,0 +1,30 @@
+.tooltip-inner {
+    background-color: white;
+    color: black;
+    box-shadow: 0px 2px 9px 5px rgba(123, 121, 117, 0.25);
+}
+.last-bill-title {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.last-bill-body {
+    text-align: left;
+}
+.bill-status:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.filter {
+    margin-bottom: 20px;
+}
+.filter select{
+    margin-bottom: 20px;
+    max-width: 150px;
+
+}
+.filter #filter-day {
+}

@@ -1,0 +1,27 @@
+
+html,
+body {
+    height: 100%;
+}
+.container-fluid {
+    min-height: 100%;
+    height:auto !important; /* cross-browser */
+    height: 100%; /* cross-browser */
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-container {
+    overflow: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    /* background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+.mg-0 {
+    margin: 0;
+}
+.pd-0 {
+    padding: 0;
+}

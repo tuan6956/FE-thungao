@@ -1,0 +1,10 @@
+.main-form {
+    background-color: white;
+    padding: 1rem;
+}
+
+caption { 
+    caption-side:top; 
+    text-align: center; 
+    text-transform: capitalize;
+}
